@@ -1,16 +1,4 @@
-# unitalk
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Fluente
+## https://anshuman0904.github.io/fluente/
+### Fluente is a mobile application designed to connect users with native speakers of their target language for real-time text conversations. This app facilitates language exchange, allowing users to practice and improve their language skills through interactive communication and social media features.
+### Download: https://github.com/anshuman0904/fluente/blob/main/fluente.apk
